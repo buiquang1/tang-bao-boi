@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'bao? boi' à!',
+    introTitle: 'bảo bối à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,4 +15,4 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'gửi em 1 ngàn nụ hôn.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com'/
+    messLink: 'http://fb.com'/,
