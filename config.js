@@ -15,4 +15,4 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'gửi em 1 ngàn nụ hôn.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com'/,
+    messLink: 'http://fb.com'
